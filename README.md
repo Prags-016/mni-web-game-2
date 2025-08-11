@@ -24,10 +24,7 @@ Play them here: [Live Demo Link]
 - **Game Logic Implementation** — determining winners & managing states
 - **Basic Styling** — making the UI clean and playable
 
-## 🖼 Screenshots
-*(Add your screenshots or GIFs here)*
 
-## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Prags-016/mni-web-game-1.git
