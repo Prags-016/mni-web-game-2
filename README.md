@@ -1,4 +1,4 @@
-# mni-web-game-1
+# mni-web-game-2
 # 🎮 Mini Game Collection — Stone-Paper-Scissors & Tic-Tac-Toe
 
 A pair of fun, classic games built entirely using **HTML**, **CSS**, and **JavaScript** to practice frontend development skills.
